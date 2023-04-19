@@ -6,8 +6,8 @@
 - git clone  https://github.com/aziz-2000/decrypt.git
 - Cd decrypt
 - ls
-- pip install pycryptodome
-- pip install requests
+- pip3 install pycryptodome
+- pip3 install requests
 - python3 cryppto.py
 
 
